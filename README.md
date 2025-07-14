@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="banner.png" alt="Akash Chaursiya | Java Full Stack Developer" style="width:100%; max-width:800px; border-radius:10px;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Akash Chaursiya</h1>
 <h3 align="center">Front-End Developer | React.js | HTML | CSS | JavaScript | WordPress</h3>
 
