@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="hr4C6SVsh4qExqkvf5_-wr1G7_CukiS7XFCA4B_h_2w" />
+
 <p align="center">
   <img src="banner.png" alt="Akash Chaursiya | Frontend Developer (React.js)" style="width:100%; max-width:800px; border-radius:10px;" />
 </p>
@@ -73,4 +75,4 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
-google-site-verification: google70cffb0d1d273568.html
+
